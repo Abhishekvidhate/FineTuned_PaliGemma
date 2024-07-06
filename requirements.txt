@@ -2,6 +2,7 @@ torch
 peft
 streamlit
 transformers
+accelerate
 requests
 pillow
 huggingface-hub
