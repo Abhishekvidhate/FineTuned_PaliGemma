@@ -48,3 +48,9 @@ I also built custom dataset of Physics quesiton , which i decide to use for fine
 I learnt new methods to Inference VLMs , as i was only used to deploy and inference **LLMs** and with help of **LANGCHAIN** inference and deployment is easy.
 
 Inference **FINE TUNED MODEL** Locally on my PC is not possible, as first loading model and then using it is not possible for my laptop ( less powerful GPU). So I Inferred using Free resources of **KAGGLE NOTEBOOK**
+
+#### follow my Inference notebook for detailed explaination
+
+Inference with **Streamlit APP**, I was not able to do it using API and even with Streamlit cloud deployment, as even **Streamlit cloud's virtual machine has limited memory, so loading FINE TUNED MODEL, then inferencing was not possible , as CUDA out of memory error**
+
+I tried HUGGINGFACE API INFERENCE, failed to deploy and inference , i need more time to do this ( as i lack some knowledge here)
