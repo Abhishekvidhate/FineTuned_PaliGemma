@@ -14,9 +14,9 @@ for this assignment I selected **Pali Gemma** model to work on. Pali Gemma is an
 I only used **KAGGLE** for all the processing and inference, as even **Google Collab's** free resoucres are not enough for **LORA** fine Tuning
 
 I will recommend to upload my notebooks -
- - [**FINE TUNING**]
- - [**INFERENCE**]
- - [**BENCHMARKING**]
+ - [**FINE TUNING**](https://github.com/Abhishekvidhate/FineTuned_PaliGemma/blob/master/finetuning.ipynb)
+ - [**INFERENCE**](inference.ipynb)
+ - [**BENCHMARKING**](benchmarking/benchmarking-vlm.ipynb)
 
 to your kaggle notebook and run it to replicate my results
 
