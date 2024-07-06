@@ -5,3 +5,4 @@ pillow
 peft
 streamlit
 requests
+huggingface-hub
