@@ -60,5 +60,9 @@ I tried HUGGINGFACE API INFERENCE, failed to deploy and inference , i need more 
 I was planning to use **VLMEvalKit** for benchmarking my fine tuned VLM against other OpenSource VLMs ,but to use this , my Fine tuned model must be supported by **VLMEvalKit**, which is not supported. so i decided to benchmark using my own **CUSTOM DATASET**.
 
 I used [HuggingFaceM4/idefics2-8b-chatty](https://huggingface.co/HuggingFaceM4/idefics2-8b-chatty) to use for benchmark for my fine tuned VLM
+#### Follow BENCHMARK NOTEBOOK for detailed explaination
 ![image](https://github.com/Abhishekvidhate/FineTuned_PaliGemma/assets/120262589/8de446a9-a623-4040-8b66-b1a47b097260)
 
+# final thoughts on Task
+
+this was really exciting and interesting task, i learnt new things and concepts , learnt new ways to think and understand working of MODELS better, learnt new techniques to deploy and inference VLMS LLMs models. It was good project , learnt alot
