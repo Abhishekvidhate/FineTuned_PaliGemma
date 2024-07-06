@@ -1,0 +1,7 @@
+torch
+streamlit
+juypter
+transformers
+requests
+pillow
+huggingface-hub
