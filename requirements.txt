@@ -1,4 +1,5 @@
 torch
+peft
 streamlit
 transformers
 requests
