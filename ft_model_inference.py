@@ -7,8 +7,11 @@ from io import BytesIO
 import os
 from huggingface_hub import login
 
+# Accessing the environment variables
+hf_token = st.secrets["hf_token"]
+
 # Set your Hugging Face token here
-hf_token = "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"
+# hf_token = "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"
 # Login to Hugging Face
 login(hf_token)
 
@@ -36,7 +39,7 @@ PaliGemma is an open vision-language model by Google, inspired by PaLI-3 and bui
 This demo uses a fine-tuned version of PaliGemma.I have Fine tuned Pali-Gemma-3b-pt-224 on small split of DocumentVQA dataset( total unzipped 60+ GB of data) You can upload an image and enter a prompt to see how the model performs on various tasks.
 
 
-more about [QVA datasets](https://huggingface.co/datasets/HuggingFaceM4/DocumentVQA)...
+more about [QVA datasets](https://huggingface.co/datasets/HuggingFaceM4/DocumentVQA)
 """)
 
 # Image upload
