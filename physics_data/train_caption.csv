@@ -1,0 +1,80 @@
+image_name,messages
+1.jpg,"{'messages': [
+    {'content': [
+        {'index': 0, 'text': None, 'type': 'image'},
+        {'index': None, 'text': 'figure shows the graph of velocity versus time for a particle going along the X-axis. find the distance travelled in 0 to 10s, answer distance travelled 50m', 'type': 'text'}
+    ], 'role': 'user'},
+    {'content': [
+        {'index': None, 'text': 'The distance travelled in the given time interval is 50 meters.', 'type': 'text'}
+    ], 'role': 'assistant'}
+]}"
+
+2.jpg,"{'messages': [
+    {'content': [
+        {'index': 0, 'text': None, 'type': 'image'},
+        {'index': None, 'text': 'An Old person moves on a semi-circular track of radius 40.0 m during a morning walk. If he starts at one end of the track and reaches at the other end, find the distance covered and the displacement of the person. the distance covered by the person equals the length of the track and the displacement is equal to the diameter of the semi-circular track joining the two ends. answers distance covered is 126 m , displacement is 80 m', 'type': 'text'}
+    ], 'role': 'user'},
+    {'content': [
+        {'index': None, 'text': 'The distance covered is 126 meters and the displacement is 80 meters.', 'type': 'text'}
+    ], 'role': 'assistant'}
+]}"
+
+3.jpg,"{'messages': [
+    {'content': [
+        {'index': 0, 'text': None, 'type': 'image'},
+        {'index': None, 'text': 'A ball is thrown from a field with a speed of 12m/s at an angle of 46 degrees with the horizontal. At what distance will it hit the field again. Use Horizontal range formula. Answer, the ball hits at 14.4 m', 'type': 'text'}
+    ], 'role': 'user'},
+    {'content': [
+        {'index': None, 'text': 'The ball hits the field again at a distance of 14.4 meters.', 'type': 'text'}
+    ], 'role': 'assistant'}
+]}"
+
+4.jpg,"{'messages': [
+    {'content': [
+        {'index': 0, 'text': None, 'type': 'image'},
+        {'index': None, 'text': 'The speed of a car as a function of time is shown in figure (3-E1), find the distance travelled by car in 8 seconds and its acceleration. Answers, distance travelled is 80 m and acceleration is 2.5 meter per second square', 'type': 'text'}
+    ], 'role': 'user'},
+    {'content': [
+        {'index': None, 'text': 'The distance travelled by the car in 8 seconds is 80 meters and its acceleration is 2.5 meters per second squared.', 'type': 'text'}
+    ], 'role': 'assistant'}
+]}"
+
+5.jpg,"{'messages': [
+    {'content': [
+        {'index': 0, 'text': None, 'type': 'image'},
+        {'index': None, 'text': 'Figure (3-Q2) shows the displacement-time graph of a particle moving on X-axis, what is correct description of graph. Answer, the particle moves at constant velocity up to a time t0 and then stops', 'type': 'text'}
+    ], 'role': 'user'},
+    {'content': [
+        {'index': None, 'text': 'The particle moves at constant velocity up to a time t0 and then stops.', 'type': 'text'}
+    ], 'role': 'assistant'}
+]}"
+
+6.jpg,"{'messages': [
+    {'content': [
+        {'index': 0, 'text': None, 'type': 'image'},
+        {'index': None, 'text': 'Figure (3.6) shows the speed versus time graph for a particle. Find the distance travelled by the particle during the time t=0 to t=3 s. The distance travelled is equal to the area shaded in the figure. Answer, 9 m or 9 metre', 'type': 'text'}
+    ], 'role': 'user'},
+    {'content': [
+        {'index': None, 'text': 'The distance travelled by the particle during the time t=0 to t=3 s is 9 meters.', 'type': 'text'}
+    ], 'role': 'assistant'}
+]}"
+
+7.jpg,"{'messages': [
+    {'content': [
+        {'index': 0, 'text': None, 'type': 'image'},
+        {'index': None, 'text': 'A particle moves in X-Y plane with a constant acceleration of 1.5 metre per second square in the direction making an angle of 37 degree with X-axis. At t=0 the particle is at the origin and its velocity is 8 metre per second along the X-axis. Find the velocity and the position of the particle at t=4 seconds. Use Kinematics(Physics of motion of objects) to get answer. Answer, the particle is at (41.6 m, 7.2 m) at 4 seconds', 'type': 'text'}
+    ], 'role': 'user'},
+    {'content': [
+        {'index': None, 'text': 'The particle is at (41.6 m, 7.2 m) at 4 seconds.', 'type': 'text'}
+    ], 'role': 'assistant'}
+]}"
+
+8.jpg,"{'messages': [
+    {'content': [
+        {'index': 0, 'text': None, 'type': 'image'},
+        {'index': None, 'text': 'Figure 3-Q1 shows the x coordinate of a particle as a function of time. Find the signs of v(x) and a(x) at t = t1, t = t2 and t = t3. Use concepts of Kinematics(Physics of motion of objects) to get answer.', 'type': 'text'}
+    ], 'role': 'user'},
+    {'content': [
+        {'index': None, 'text': 'Using concepts of Kinematics, we find the signs of v(x) and a(x) at t = t1, t = t2, and t = t3.', 'type': 'text'}
+    ], 'role': 'assistant'}
+]}"

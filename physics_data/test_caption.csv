@@ -1,0 +1,20 @@
+image_name,messages
+9.jpg,"{'messages': [
+    {'content': [
+        {'index': 0, 'text': None, 'type': 'image'},
+        {'index': None, 'text': 'Figure (3-E6) shows x-t graph of a particle. Find the time t such that the average velocity of the particle during the period 0 to t is zero. Answer. use concepts of Kinematics(Physics of motion of objects) to get answer. Answer, 12 s', 'type': 'text'}
+    ], 'role': 'user'},
+    {'content': [
+        {'index': None, 'text': 'The time t such that the average velocity of the particle during the period 0 to t is zero is 12 seconds.', 'type': 'text'}
+    ], 'role': 'assistant'}
+]}"
+
+10.jpg,"{'messages': [
+    {'content': [
+        {'index': 0, 'text': None, 'type': 'image'},
+        {'index': None, 'text': 'Figure (3-E4) shows the graph of the x-coordinate of a particle going along the X-axis as a function of time. Find instantaneous velocity at 5 s. Answer, 0 m/s', 'type': 'text'}
+    ], 'role': 'user'},
+    {'content': [
+        {'index': None, 'text': 'The instantaneous velocity at 5 seconds is 0 m/s.', 'type': 'text'}
+    ], 'role': 'assistant'}
+]}"
