@@ -4,7 +4,9 @@ import requests
 from io import BytesIO
 import os
 from transformers import AutoProcessor, PaliGemmaForConditionalGeneration
+from huggingface_hub import login
 
+login(api_token)
 # Hugging Face API details
 api_url = "https://api-inference.huggingface.co/models/abhishekvidhate/Abhishek-PaliGemma-FT"
 api_token = "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"  # Replace with your actual read token
