@@ -2,6 +2,7 @@
 
 for this assignment I selected **Pali Gemma** model to work on. Pali Gemma is an advanced open-source vision-language model by Google Research, designed for tasks like image captioning and visual question answering.
 
+### Video Demo : [Google Drive]()
 
 ### I selected **Pali Gemma** because of it's **Architecture**, [learn more](https://huggingface.co/blog/paligemma)
 
