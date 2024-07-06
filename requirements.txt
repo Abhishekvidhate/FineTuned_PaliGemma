@@ -6,3 +6,4 @@ peft
 streamlit
 requests
 huggingface-hub
+requests
