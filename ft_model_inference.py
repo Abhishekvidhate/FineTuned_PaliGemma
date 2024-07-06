@@ -8,7 +8,7 @@ import os
 from huggingface_hub import login
 
 # Accessing the environment variables
-hf_token = st.secrets["hf_token"]
+hf_token = st.secrets["HF_TOKEN"]
 
 # Set your Hugging Face token here
 # hf_token = "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"
