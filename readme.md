@@ -54,3 +54,11 @@ Inference **FINE TUNED MODEL** Locally on my PC is not possible, as first loadin
 Inference with **Streamlit APP**, I was not able to do it using API and even with Streamlit cloud deployment, as even **Streamlit cloud's virtual machine has limited memory, so loading FINE TUNED MODEL, then inferencing was not possible , as CUDA out of memory error**
 
 I tried HUGGINGFACE API INFERENCE, failed to deploy and inference , i need more time to do this ( as i lack some knowledge here)
+
+# BENCHMARK
+
+I was planning to use **VLMEvalKit** for benchmarking my fine tuned VLM against other OpenSource VLMs ,but to use this , my Fine tuned model must be supported by **VLMEvalKit**, which is not supported. so i decided to benchmark using my own **CUSTOM DATASET**.
+
+I used [HuggingFaceM4/idefics2-8b-chatty](https://huggingface.co/HuggingFaceM4/idefics2-8b-chatty) to use for benchmark for my fine tuned VLM
+![image](https://github.com/Abhishekvidhate/FineTuned_PaliGemma/assets/120262589/8de446a9-a623-4040-8b66-b1a47b097260)
+
