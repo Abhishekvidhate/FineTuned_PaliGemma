@@ -1,6 +1,6 @@
 # Fine Tuning Multi-Modal Language Model ( VLM )
 
-I selected **Pali Gemma** model to work on. Pali Gemma is an advanced open-source vision-language model by Google Research, designed for tasks like image captioning and visual question answering.
+Selected **Pali Gemma** model to work on. Pali Gemma is an advanced open-source vision-language model by Google Research, designed for tasks like image captioning and visual question answering.
 
 ### Video Demo : [Google Drive](https://drive.google.com/drive/folders/1i0kcuPQYUWp_8mMMiG6sQZ1issjeJWP6?usp=sharing)
 
