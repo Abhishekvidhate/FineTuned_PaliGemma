@@ -6,6 +6,15 @@ Selected **Pali Gemma** model to work on. Pali Gemma is an advanced open-source 
 
 ### I selected **Pali Gemma** because of it's **Architecture**, [learn more](https://huggingface.co/blog/paligemma)
 
+**PaliGemma Model Architecture:**
+
+PaliGemma models utilize a transformer-based architecture with attention mechanisms, enabling them to focus on different parts of input text effectively. Pre-trained on diverse datasets, these models are modular and adaptable, making them suitable for a wide range of NLP tasks.
+
+**Ease of Fine-Tuning:**
+
+Pre-trained checkpoints provide a solid foundation for fine-tuning. User-friendly libraries like Hugging Face's Transformers simplify the process. Efficient techniques such as Low-Rank Adaptation (LoRA) and Quantization make fine-tuning feasible even with limited data and computational resources.
+
+
 ![image](https://github.com/Abhishekvidhate/FineTuned_PaliGemma/assets/120262589/8bf94eda-6f61-42d6-8cb3-0626f5c8d275)
 
 ### I wanted to Fine tune a model on Different techinque other than LORA and QLORA, so i think **Pali Gemma** would be best fit for this.
